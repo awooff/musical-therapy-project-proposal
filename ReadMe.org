@@ -2,10 +2,6 @@
 #+author: Juno Iacusia
 #+date: 29-09-2022
 
-* A case study in the efficacy of synthetic audio in musical therapy
-
-Utilising convolution resynthesis & synthetic listening to heal trauma victims in a professional therapy environment.
-
 ** Abstract
 
 This project aims to outlie the methodology & workflow used in the development for the critera in the use of AI generated music with convolution synthesis techniques, to achieve the stated end emotions outlied within Hevner's mood wheel for teenage & young adult patients.
