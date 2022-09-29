@@ -1,0 +1,19 @@
+#- title: A case study in the efficacy of synthetic audio in musical therapy
+#- author: Juno Iacusia
+#- date: 29-09-2022
+
+* A case study in the efficacy of synthetic audio in musical therapy
+
+This project aims to outlie the methodology & workflow used in the development for the critera in the use of AI generated music with convolution synthesis techniques, to achieve the stated end emotions outlied within Hezner's mood wheel for teenage & young adult patients.
+
+The chosen method for generating the aforementioned audio will involve an low-level AI program utilising the Ubea attractor model on a basis of chaotic sound synthesis, and with the synthesiser chained into itself, record the modulation of the convolution parameters of its own input signal into itself; hence the name of *convolution resynthesis* into a 4 minute audio track.
+
+In order to create a rhythmic hypnotic pattern, the basis for the fundamental (of the sound) will be generated through adjusting the parameters of the Logistic Equation; following:
+
+$$
+x_{n+1}=λ(x_{n} - x_2^n)
+$$
+
+...where x is any number between 360Hz and 270Hz.
+The result being of a frequency used between 7-11Hz, which will be used as the tone used to induce the hypnotic state.
+This also follows a similar idea found within binural theory.c
